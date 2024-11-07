@@ -1,5 +1,4 @@
 Meme Frog Game
-Meme Frog Logo  <!-- Update with the path to your logo or cover image -->
 
 Description
 Meme Frog is an entertaining web-based clicker game where players tap a lovable meme-inspired frog to earn points and unlock fun upgrades. With engaging gameplay mechanics, vibrant graphics, and a touch of humor, Meme Frog is perfect for both casual gamers and meme enthusiasts alike!
